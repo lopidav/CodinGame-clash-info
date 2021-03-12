@@ -11,3 +11,6 @@ In plans:
 - Add clash info to the cards that are already included on the page. Like on the "friends" page.
 - Make it pretty.
 - Add cashing.
+
+
+Original idea and development by Allis. Some optimization by TheCrucial.
